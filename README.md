@@ -96,7 +96,7 @@ cd Credit_Card_Statement_Analyzer
 Run the script:
 
 ```python
-python main.py
+python Credit_Card_Statement_Analyzer.py
 ```
 
 
